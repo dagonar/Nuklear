@@ -1,0 +1,8 @@
+To open the game:
+
+Chrome:
+1.- Close all instances of Chrome.
+2.- Double clic on the "StartGame" file.
+
+Firefox
+Won't give any problems, open normally.
